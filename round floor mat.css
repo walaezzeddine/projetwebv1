@@ -1,0 +1,88 @@
+.titre{
+    color:rgb(45, 45, 45) ;
+}
+
+#x1 {
+    border : solid ;
+    margin-right: 200px;
+}
+
+
+.location{
+    width: 50px;
+    height: 50px;
+    float: left;
+
+}
+
+.locp{
+    color: grey;
+    margin-left: 70px;
+    margin-bottom: 60px
+    
+}
+ 
+.qual{
+    width: 848PX;
+    height: 586PX;
+    margin-left: 90px;
+    margin-top: -200px;
+}
+
+.bloc1{
+    padding-right: -300px;
+    margin-top: 300px;
+}
+
+.size{
+    width: 400px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    border: solid;
+
+
+}
+
+.add{
+    width: 400px;
+    height: 50px;
+    background-color: #323334;
+    margin-top: 20px;
+    color: white;
+
+}
+
+.row1{
+    margin-top: -200px;
+}
+
+.l2{
+    color: grey;
+}
+
+.l1{
+    color: red;
+}
+
+.conscious{
+    margin-left: 100px;
+    margin-right: 700px ;
+    background-color: #F0EFED;
+    padding: 1%;
+    margin-top: 2% ;
+}
+
+.sugg{
+    border-collapse: separate;
+    border-spacing: 80px;
+
+}
+
+.ayml{
+    padding-left: 50px;
+}
+
+.suggestion{
+    margin: 4%;
+}
